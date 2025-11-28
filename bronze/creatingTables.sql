@@ -1,4 +1,7 @@
 create schema bronze;
+create schema silver;
+create schema gold;
+
 
 CREATE TABLE bronze.crm_cust_info (
    cst_id INT,
