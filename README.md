@@ -18,11 +18,11 @@ This project demonstrates the design of a SQL Data Warehouse using **Medallion A
 
 **Project Structure**
 
--*Dataset/*     Original datasets
--*Bronze/*      Raw data tables
--*Silver/*      Cleaned tables
--*Gold/*        Aggregated tables for analysis
--*Scripts/*     SQL queries for analysis
+- *Dataset/*     Original datasets
+- *Bronze/*      Raw data tables
+- *Silver/*      Cleaned tables
+- *Gold/*        Aggregated tables for analysis
+- *Scripts/*     SQL queries for analysis
 
 
 [GitHub Repository](https://github.com/razidanish/Sql-datawarehouse-project)
