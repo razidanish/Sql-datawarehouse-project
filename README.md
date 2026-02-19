@@ -17,6 +17,7 @@ This project demonstrates the design of a SQL Data Warehouse using **Medallion A
 - SQL
 
 **Project Structure**
+
 -*Dataset/*     Original datasets
 -*Bronze/*      Raw data tables
 -*Silver/*      Cleaned tables
